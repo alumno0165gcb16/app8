@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>Villa Iluminada 2014</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>95</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/salient/</ImageTemplate>
+            <ImageTemplateName>Salient</ImageTemplateName>
+            <ImageWidth>480</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>F:/DAM2/3er Parcial/aplicacion08/galeria/Villita.html</PublishFileName>
+            <PublishIndex>Villita.html</PublishIndex>
+            <PublishPath>F:/DAM2/3er Parcial/aplicacion08/galeria</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>salient</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/DAM2/3er Parcial/aplicacion08/imagenes/3.jpg</url>
+                <title>Palacio Municipal</title>
+            </Image>
+            <Image>
+                <url>F:/DAM2/3er Parcial/aplicacion08/imagenes/5.jpg</url>
+                <title>Parroquia de la Natividad</title>
+            </Image>
+            <Image>
+                <url>F:/DAM2/3er Parcial/aplicacion08/imagenes/6.jpg</url>
+                <title>Callejón</title>
+            </Image>
+            <Image>
+                <url>F:/DAM2/3er Parcial/aplicacion08/imagenes/7.jpg</url>
+                <title>Asiento sin Iluminar</title>
+            </Image>
+            <Image>
+                <url>F:/DAM2/3er Parcial/aplicacion08/imagenes/8.jpg</url>
+                <title>Fuente</title>
+            </Image>
+            <Image>
+                <url>F:/DAM2/3er Parcial/aplicacion08/imagenes/25.jpg</url>
+                <title>Pastorela</title>
+            </Image>
+            <Image>
+                <url>F:/DAM2/3er Parcial/aplicacion08/imagenes/36.jpg</url>
+                <title>Asiento Iluminado</title>
+            </Image>
+            <Image>
+                <url>F:/DAM2/3er Parcial/aplicacion08/imagenes/38.jpg</url>
+                <title>Pino</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
